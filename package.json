@@ -20,7 +20,7 @@
     "javascript-time-ago": "^2.0.6",
     "jsdom-worker-fix": "^0.1.8",
     "less": "^3.9.0",
-    "less-loader": "^5.0.0",
+    "less-loader": "^11.1.0",
     "normalizr": "^3.4.1",
     "ramda": "^0.26.1",
     "react": "^16.9.0",
@@ -29,7 +29,7 @@
     "react-monaco-editor": "^0.26.2",
     "react-redux": "^7.0.3",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "^3.3.0",
+    "react-scripts": "^5.0.1",
     "redux": "^4.0.1",
     "redux-observable": "^1.1.0",
     "rxjs": "^6.5.3",
@@ -91,7 +91,7 @@
     "tslint": "^5.17.0",
     "tslint-config-prettier": "^1.18.0",
     "tslint-react": "^4.0.0",
-    "worker-loader": "^2.0.0"
+    "worker-loader": "^3.0.8"
   },
   "jest": {
     "coverageThreshold": {
